@@ -1,0 +1,21 @@
+Privacy Policy
+Last updated: 4 August 2021
+
+These policies (“Privacy Policy”) are an agreement between Xalima (“we”, “us”, or “our”) and you (“you”, or “your”). By accessing the website located at https://xalima.gq (the “Site”), or by interacting with the
+Xalima Discord bot (the “Bot”, collectively referred to as the “Service”) you agree to this Privacy Policy entirely. If you do not agree, you shall cease using the Service.
+
+We do not collect nor process any personal data, according to the Article 4 of the General Data Protection Regulation laws. We only collect data made available by Discord, Inc. (“Discord”) through their Application
+Programming Interface (“Discord’s API”) according to the Discord Developer Terms of Service available at https://discord.com/developers/docs/legal.
+
+Wherever you live, you consent to the processing of the aforementioned data in United Kingdom, where our servers are located. We only process data served by Discord’s API and, in the event storage is required in
+order for us to provide a feature of the Service, we’ll only store this data for up to 90 days after which the data will be deleted.
+
+Please note that while we do our best efforts to respect this 90 days retention period, stored data might still be available for an extended period on our servers in database backups we’re keeping to protect the
+Service against any form of data loss.
+
+Additionally, we reserve the right to monitor the Service usage (e.g. commands issued) to identify issues within the Service or to understand how the Service is used in an effort to improve it.
+
+You can get in touch via:
+
+Discord: Killerjet101#7838
+Support Server: https://discord.gg/94EEG8UP5U
